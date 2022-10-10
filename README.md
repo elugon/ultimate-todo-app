@@ -9,6 +9,11 @@ npm install
 npm run start
 ```
 
+## Wireframes
+![](/public/wireframe.png)
+
+---
+
 > Remember that you have all [the lessons recorded](https://github.com/WDPT-2204/PT0422-videos) in case you need to get over any concept again. This is your chance to really solidify the knowledge you have about React.
 
 Try to do your best: puma mode ON 🐆
